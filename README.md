@@ -2,11 +2,8 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
 </div>
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Welcome to "Maddox's Auto Clicker" 🖱️</h1>
- 
 
 <div align="center"><img  src="https://assets.grooveapps.com/images/5ee53eab66e30100140a5239/1657607474_autoclicker.gif" width="230" height="230"></div>
-
-
 
 Maddox's Auto Clicker is a user-friendly Python application designed to automate mouse clicks at specified intervals.
 
@@ -20,13 +17,21 @@ Maddox's Auto Clicker is a user-friendly Python application designed to automate
 ## ⚙️ Dependencies
 
 - Python 3.x
-- mouse
-- keyboard
-- tkinter
+- `tkinter`
 
 ## 💻 Installation
 
-- Releases coming soon!
+Download the `.exe` file from the [latest release](https://github.com/maddox05/Auto-Clicker/releases/tag/v1.0) and simply install the application.
+
+### 1️⃣ First method
+
+1. Go to the `Releases` tab on the right of the page.
+2. Download the latest `.exe` file.
+
+### 2️⃣ Second method
+
+1. Click on `Latest release`.
+2. Download the `.exe` file.
 
 ## 📝 Usage
 
@@ -41,6 +46,4 @@ Contributions are welcome! If you find any bugs or issues, please open a new iss
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
+This project is licensed under the MIT License - see the [LICENSE file](LICENSE) for details.
